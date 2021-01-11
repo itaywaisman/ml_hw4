@@ -1,0 +1,5 @@
+'protein_4'
+'protein_5'
+'protein_6'
+'protein_8'
+'protein_9'
